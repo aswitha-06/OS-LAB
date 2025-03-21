@@ -117,4 +117,5 @@ int main() {
     
     return 0;
 ```
-![screenshot](7.png)
+![screenshot](7-1.png)
+![screenshot](7-2.png)
