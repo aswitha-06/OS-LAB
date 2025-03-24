@@ -1,6 +1,6 @@
-<h1>Simulate Paging Technique of memory management.</h1>
+<h1>Simulate Paging Technique of memory management.
 
-> ## Source Code:
+<h1>Source Code:</h1>
 
  ```c
 #include <stdio.h>
