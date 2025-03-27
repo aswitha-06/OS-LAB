@@ -1,4 +1,4 @@
-> ## a) Source Code for Semaphore
+<h1>a) Source Code for Semaphore</h1> 
 
 ```c
 #include <stdio.h>
@@ -39,7 +39,7 @@ int main() {
 ```
 ![screenshot](4a.png)
 
-> ## b) Source Code for Monitors
+<h1>b) Source Code for Monitors</h1>
 
 ```c
 #include <stdio.h>
