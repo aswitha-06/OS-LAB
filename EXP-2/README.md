@@ -1,6 +1,7 @@
-> ## To implement UNIX operating system calls fork, exec, getpid, exit, wait, close, stat, opendir and readdir
+<h1> To implement UNIX operating system calls fork, exec, getpid, exit, wait, close, stat, opendir and readdir</h1>
 
-> ## Source Code:
+<h1> Source Code:</h1>
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
