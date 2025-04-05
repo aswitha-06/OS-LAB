@@ -1,4 +1,6 @@
-> ## Program Statement: To illustrate concurrent execution of threads using pthread library.
+<H1>To illustrate concurrent execution of threads using pthread library.</H1>
+
+<H1>Source Code</H1>
 
 ```c
 #include <stdio.h>
