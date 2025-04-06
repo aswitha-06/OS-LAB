@@ -1,4 +1,7 @@
-> ## Implement Peterson algorithm for critical section problem.
+<H1>Implement Peterson algorithm for critical section problem.</H1>
+
+<H1>Sourec Code:</H1>
+
 ```c
 #include <stdio.h>
 #include <pthread.h>
