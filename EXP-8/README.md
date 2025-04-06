@@ -1,5 +1,6 @@
-> ## To simulate Page replacement algorithm like FIFO, LRU, LFU and Optimal Algorithm
-> ## Source Code:
+<H1>To simulate Page replacement algorithm like FIFO, LRU, LFU and Optimal Algorithm</H1>
+
+<H1>Source Code:</H1>
 
 ```c
 #include <stdio.h>
