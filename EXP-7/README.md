@@ -1,5 +1,6 @@
-> ## To implement memory allocation methods like first fit, best fit and worst first
-> ## Source Code:
+<H1>To implement memory allocation methods like first fit, best fit and worst first</H1>
+<H1>Source Code:</H1>
+
 ```c
 #include <stdio.h>
 
