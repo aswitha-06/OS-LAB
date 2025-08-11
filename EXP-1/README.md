@@ -52,7 +52,7 @@
   exit
   Exit from a process. If shell is the only process then logs out
 ```
-![screenshot](date.png)
+![screenshot](dte.png)
 ![screenshot](cal.png)
 ![screenshot](calyear.png)
 ![screenshot](calmonthyear.png)
